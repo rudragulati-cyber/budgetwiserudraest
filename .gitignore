@@ -1,0 +1,11 @@
+# .gitignore (root)
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.production
+venv/
+dist/
+.DS_Store
+*.egg-info/
